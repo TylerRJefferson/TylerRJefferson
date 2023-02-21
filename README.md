@@ -9,7 +9,7 @@ Prior to becoming a Software Engineer, I worked in Multi-Family Industry Sales f
 *   🌍  I'm based in Florida
 *   ✉️  You can contact me at [TylerRJefferson00@icloud.com](mailto:TylerRJefferson00@icloud.com)
 *   🚀  I'm currently working on [My final project for Boca Code](http://pocket-mechanic-tj.s3-website-us-east-1.amazonaws.com/)
-*   🧠  I'm currently learning Ruby / NextJS
+*   🧠  I'm currently learning C# / .NET
 *   ⚡  I'm an animal lover, car enthusiast, and care deeply about ocean cleanup
   
 ### Skills 
